@@ -25,3 +25,8 @@ body {
     font-size: 21px;
     color: gray;
 }
+
+.foot {
+    color: gray;
+    text-align: right;
+}
